@@ -1,0 +1,1 @@
+{"id":"670591d6-f1d7-4e66-b837-7922c9df92c9","name":"Czas","triggers":[{"kind":"TIME","event":"INTERVAL","recurrent":false,"parameters":[120]}],"criteria":{},"actions":[]}
