@@ -1,4 +1,4 @@
-##### Dominanta
+# Dominanta
 
 Napisz program, który wczyta ciąg liczb naturalnych rozdzielonych spacjami, i zwróci tę z
 nich, która występuje największą liczbę razy. Jeśli więcej niż jedna liczba występuje tyle
