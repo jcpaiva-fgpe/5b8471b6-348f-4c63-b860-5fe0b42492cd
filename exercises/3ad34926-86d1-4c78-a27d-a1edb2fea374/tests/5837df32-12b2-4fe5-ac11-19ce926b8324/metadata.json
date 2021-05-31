@@ -1,0 +1,1 @@
+{"id":"5837df32-12b2-4fe5-ac11-19ce926b8324","arguments":[],"weight":"3","visible":true,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdź w kodzie czy poprawnie używasz polecenia wczytującego / wyświetlającego tekst.","weight":"0"},{"message":"Sprawdź w kodzie czy zliczasz ilość wystąpień litery A w wyrazach.","weight":"0"}]}
