@@ -1,1 +1,3 @@
+Podaj przystanek wsiadania:
+Podaj przystanek wysiadania:
 Przystanki to: Słupsk Koszalin
