@@ -1,5 +1,7 @@
 przystanki = [ 'Szczecin', 'Nowogard', 'Koszalin', 'Słupsk', 'Gdynia', 'Gdańsk' ]
+print('Podaj przystanek wsiadania:')
 i = input()
+print('Podaj przystanek wysiadania:')
 j = input()
 if i in przystanki and j in przystanki:
     if przystanki.index(i) < przystanki.index(j):
