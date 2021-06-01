@@ -1,5 +1,3 @@
 Podaj słowo na literę A:
-ATLAS
 Podaj słowo na literę S:
-NIE
 Przegrałeś.
