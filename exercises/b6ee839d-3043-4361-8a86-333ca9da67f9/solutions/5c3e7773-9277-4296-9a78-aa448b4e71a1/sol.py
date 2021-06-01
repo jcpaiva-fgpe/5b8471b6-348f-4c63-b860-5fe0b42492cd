@@ -5,5 +5,5 @@ while True:
     if slowo[0] == litera:
         litera = slowo[-1]
     else:
-        print("Przegrałes.")
+        print("Przegrałeś.")
         break
