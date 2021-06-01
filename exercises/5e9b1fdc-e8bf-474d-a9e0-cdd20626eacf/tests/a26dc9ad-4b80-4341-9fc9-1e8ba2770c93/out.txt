@@ -1,4 +1,4 @@
-Liczba dzieci: 
-Dochód na członka: 
-Niepełnosprawne: 
+Liczba dzieci:
+Dochód na członka:
+Niepełnosprawne:
 Łączny zasiłek: 2000
