@@ -1,0 +1,5 @@
+print('Podaj pierwszy napis:')
+in1 = input().split()
+print('Podaj drugi napis:')
+in2 = input().split()
+print('Takie same wyrazy to:', *list(set(in1) & set(in2)))
