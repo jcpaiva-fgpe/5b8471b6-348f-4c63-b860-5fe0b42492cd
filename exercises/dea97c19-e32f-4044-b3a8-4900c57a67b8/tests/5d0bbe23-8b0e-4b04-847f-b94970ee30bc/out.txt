@@ -1,0 +1,8 @@
+Wpisz nazwę do piramidy:
+P
+P R
+P R O
+P R O G
+P R O G R
+P R O G R A
+P R O G R A M
