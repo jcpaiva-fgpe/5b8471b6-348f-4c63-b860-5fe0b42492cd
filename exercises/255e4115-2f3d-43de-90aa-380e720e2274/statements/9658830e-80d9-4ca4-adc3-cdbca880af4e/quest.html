@@ -1,0 +1,18 @@
+<h4>Sprawdzanie numeru PESEL</h4>
+<br>
+<p>Napisz program, który wczyta od użytkownika nazwisko oraz numer PESEL i wypisze informacje, które można wyszczegolnić z numeru PESEL:</p>
+<ol><p>cyfry od 1 do 6 – data urodzenia z określeniem stulecia urodzenia</p>
+<p>cyfry od 7 do 9 – numer serii</p>
+<p>cyfra 10 – płeć</p>
+<p>cyfra 11 – cyfra kontrolna</p>
+<br>
+<p>Zweryfikuj PESEL wg. podanego wzoru:</p>
+<p>Ostatnia cyfra numeru PESEL jest to tzw. liczba kontrolna, pozwala ona zweryfikować czy numer PESEL został ustalony prawidłowo.</p> 
+<p>Skorzystaj ze wzoru matematycznego:<br> 1*a + 3*b + 7*c + 9*d + 1*e + 3*f + 7*g + 9*h + 1*i + 3*j, gdzie litery od a do j oznaczają kolejne cyfry numeru PESEL. Ostatnia cyfra PESEL będzie wynikiem tego wzoru. Z otrzymanego wyniku, weź ostatnią cyfrę i odejmij od liczby 10. Uzyskany wynik powinien być zgodny z ostatnią cyfrą numeru PESEL.</p>
+<p>Jeżeli wprowadzony PESEL przeszedł pomyślnie przez weryfikacje, wypisz komunikat uwzgledniając płec oraz wiek:</p> 
+<br><p>Przkładowo dla: <code>Tomczak 96022277319</code> powinnismy otrzymać poniższy komunikat:</p> 
+<p><code>Pan Tomczak, urodzony: 22.02.1996, legitymujacy sie numerem PESEL: 96022277319, ma aktualnie 25 lat.</code></p>
+<p>UWAGA! Jeżeli PESEL nie jest prawidłowo wpisany, program wysyła komunikat o błędzie.</p>
+<br>
+<p> Aby zaliczyć zadanie należy wprowadzić następujące dane wejściowe: <code>Adamowicz 88072902015</code></p><br>
+<p>Powodzenia!</p>
