@@ -2,3 +2,4 @@ Freund 159.6
 Stoch 159.8
 Żyła 56.0
 Prevc 160.1
+koniec
