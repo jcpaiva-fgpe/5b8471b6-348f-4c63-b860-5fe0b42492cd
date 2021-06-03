@@ -1,1 +1,1 @@
-{"id":"67cf6b55-96e3-4031-b181-5a671695308d","name":"3.0","description":"dst","kind":"POINT","recurrent":true,"image":null,"cost":0,"amount":6,"challenges":[],"message":""}
+{"id":"67cf6b55-96e3-4031-b181-5a671695308d","name":"3.0","description":"dst","kind":"UNLOCK","recurrent":true,"image":null,"cost":3,"amount":0,"challenges":["36ab1aa4-afac-4117-86da-77923ff9cbf9"],"message":""}
