@@ -1,0 +1,1 @@
+{"id":"43367031-c6e4-46ac-8ae7-fe40b1a01a5e","name":"R-Lock","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["fb34b785-6177-488f-aad0-a3e700a0c32b"]}],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["${V0}","state","LOCKED"]}]}
