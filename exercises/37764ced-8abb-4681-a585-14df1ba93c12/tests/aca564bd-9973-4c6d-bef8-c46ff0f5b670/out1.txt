@@ -1,2 +1,3 @@
 Podaj wynik:
-Lider: Freund 159
+Lider: Freund 159.0
+Podaj wynik:
