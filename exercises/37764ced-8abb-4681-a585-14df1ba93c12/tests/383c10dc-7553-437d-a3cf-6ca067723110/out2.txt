@@ -1,0 +1,8 @@
+Podaj wynik:
+Lider: Freund 159.6
+Podaj wynik:
+Lider: Stoch 159.8
+Podaj wynik:
+Lider: Stoch 159.8
+Podaj wynik:
+Lider: Prevc 160.1
