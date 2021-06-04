@@ -1,0 +1,1 @@
+{"id":"a76b97bc-c6b6-47e9-8658-d7b97044bd5b","name":"Unlock 1","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["fb34b785-6177-488f-aad0-a3e700a0c32b"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["${V0}","state","LOCKED"]}]}
