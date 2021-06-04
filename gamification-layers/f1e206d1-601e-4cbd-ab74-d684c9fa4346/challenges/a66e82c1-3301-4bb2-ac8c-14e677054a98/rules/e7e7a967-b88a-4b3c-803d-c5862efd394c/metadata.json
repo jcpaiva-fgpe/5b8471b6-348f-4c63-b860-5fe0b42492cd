@@ -1,0 +1,1 @@
+{"id":"e7e7a967-b88a-4b3c-803d-c5862efd394c","name":"UNBLOCK 3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["a66e82c1-3301-4bb2-ac8c-14e677054a98"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
