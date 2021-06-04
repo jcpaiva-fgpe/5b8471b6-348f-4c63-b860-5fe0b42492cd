@@ -1,1 +1,1 @@
-{"id":"aca564bd-9973-4c6d-bef8-c46ff0f5b670","arguments":[],"weight":"1","visible":true,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":[{"message":"Sprawdz kod,","weight":"0"}]}
+{"id":"aca564bd-9973-4c6d-bef8-c46ff0f5b670","arguments":[],"weight":"1","visible":"true","input":"in1.txt","output":"out1.txt","timeout":"0","feedback":[{"message":"Sprawdz kod,","weight":"0"}]}
