@@ -1,1 +1,1 @@
-{"id":"e058b5e8-0d9e-4e40-9136-781e206fd4b2","name":"Starter","description":"pierwsze polecenie","refs":["2d5d8ef8-ea33-4709-a9f6-f3a4213162ea"],"mode":"NORMAL","mode_parameters":[],"locked":false,"hidden":false,"difficulty":"BEGINNER","children":[]}
+{"id":"e058b5e8-0d9e-4e40-9136-781e206fd4b2","name":"Starter","description":"pierwsze polecenie","refs":["2d5d8ef8-ea33-4709-a9f6-f3a4213162ea"],"mode":"NORMAL","mode_parameters":[],"locked":false,"hidden":false,"difficulty":"BEGINNER","children":["7e53d389-831a-4ef5-b3cd-c926f126d77d"],"rules":[],"rewards":[],"leaderboards":[]}
