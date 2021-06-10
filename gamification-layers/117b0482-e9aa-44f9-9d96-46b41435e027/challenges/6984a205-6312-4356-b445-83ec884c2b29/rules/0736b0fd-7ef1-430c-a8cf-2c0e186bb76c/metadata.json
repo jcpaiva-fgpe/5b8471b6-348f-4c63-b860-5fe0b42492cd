@@ -1,0 +1,1 @@
+{"id":"0736b0fd-7ef1-430c-a8cf-2c0e186bb76c","name":"unblock zad2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
