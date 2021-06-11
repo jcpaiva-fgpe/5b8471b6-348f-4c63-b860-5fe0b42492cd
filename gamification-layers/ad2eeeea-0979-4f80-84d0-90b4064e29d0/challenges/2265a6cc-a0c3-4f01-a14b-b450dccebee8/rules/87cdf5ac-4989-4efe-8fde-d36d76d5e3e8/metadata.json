@@ -1,0 +1,1 @@
+{"id":"87cdf5ac-4989-4efe-8fde-d36d76d5e3e8","name":"unloo","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c9e910fb-b515-4a4e-b43a-5f8dafab4fbb"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
