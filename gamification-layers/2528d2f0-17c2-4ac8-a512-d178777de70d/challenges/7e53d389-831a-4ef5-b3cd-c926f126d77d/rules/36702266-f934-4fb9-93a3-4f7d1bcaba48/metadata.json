@@ -1,0 +1,1 @@
+{"id":"36702266-f934-4fb9-93a3-4f7d1bcaba48","name":"unna3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["e058b5e8-0d9e-4e40-9136-781e206fd4b2"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
