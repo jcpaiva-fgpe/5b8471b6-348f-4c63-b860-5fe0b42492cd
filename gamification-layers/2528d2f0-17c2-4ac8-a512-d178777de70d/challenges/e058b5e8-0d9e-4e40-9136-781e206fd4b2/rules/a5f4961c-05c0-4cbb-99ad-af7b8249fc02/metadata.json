@@ -1,0 +1,1 @@
+{"id":"a5f4961c-05c0-4cbb-99ad-af7b8249fc02","name":"unna3","triggers":[{"kind":"ACTION","event":"GAME_STARTED","recurrent":false,"parameters":[]}],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
