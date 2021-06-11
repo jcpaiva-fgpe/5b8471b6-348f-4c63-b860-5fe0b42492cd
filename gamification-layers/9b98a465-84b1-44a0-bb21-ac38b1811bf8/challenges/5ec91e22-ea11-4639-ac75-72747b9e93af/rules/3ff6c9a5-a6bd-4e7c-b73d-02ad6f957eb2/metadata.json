@@ -1,0 +1,1 @@
+{"id":"3ff6c9a5-a6bd-4e7c-b73d-02ad6f957eb2","name":"eval3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["5ec91e22-ea11-4639-ac75-72747b9e93af"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
