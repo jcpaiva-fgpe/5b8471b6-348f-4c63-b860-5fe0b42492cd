@@ -1,1 +1,0 @@
-{"id":"6996d168-b96e-402f-a23c-a9f056dce8c6","name":"unbl3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["06a55311-27e0-49e3-8509-2e17096cced3"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
