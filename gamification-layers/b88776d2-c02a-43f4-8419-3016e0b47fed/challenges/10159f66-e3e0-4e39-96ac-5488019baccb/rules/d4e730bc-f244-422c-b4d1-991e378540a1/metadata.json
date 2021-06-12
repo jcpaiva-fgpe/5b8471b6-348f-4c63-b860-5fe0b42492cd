@@ -1,1 +1,0 @@
-{"id":"d4e730bc-f244-422c-b4d1-991e378540a1","name":"uno3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["10159f66-e3e0-4e39-96ac-5488019baccb"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
