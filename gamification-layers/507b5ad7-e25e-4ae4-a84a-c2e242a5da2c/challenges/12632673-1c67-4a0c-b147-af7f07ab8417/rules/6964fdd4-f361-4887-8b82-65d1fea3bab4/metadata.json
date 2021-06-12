@@ -1,0 +1,1 @@
+{"id":"6964fdd4-f361-4887-8b82-65d1fea3bab4","name":"notcompl","triggers":[{"kind":"ACTION","event":"CHALLENGE_OPENED","recurrent":false,"parameters":["12632673-1c67-4a0c-b147-af7f07ab8417"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
