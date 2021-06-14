@@ -1,0 +1,1 @@
+{"id":"8005f51e-8e5a-45e2-961a-17eea20477b2","name":"loo1","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["900c9dc6-4b66-4604-b9d4-1bb974839984"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","79871e39-5e7a-4c5d-b65b-aa6c243cab38","state","LOCKED"]}]}
