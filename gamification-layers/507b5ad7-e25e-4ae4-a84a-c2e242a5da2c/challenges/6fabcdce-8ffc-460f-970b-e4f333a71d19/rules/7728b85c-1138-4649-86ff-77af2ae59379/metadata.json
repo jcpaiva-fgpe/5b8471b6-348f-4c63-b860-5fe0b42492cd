@@ -1,0 +1,1 @@
+{"id":"7728b85c-1138-4649-86ff-77af2ae59379","name":"unlock 4.2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["6fabcdce-8ffc-460f-970b-e4f333a71d19"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","e8210321-75f3-430f-b9eb-aa6339b0d7ca","state","OPENED"]}]}
