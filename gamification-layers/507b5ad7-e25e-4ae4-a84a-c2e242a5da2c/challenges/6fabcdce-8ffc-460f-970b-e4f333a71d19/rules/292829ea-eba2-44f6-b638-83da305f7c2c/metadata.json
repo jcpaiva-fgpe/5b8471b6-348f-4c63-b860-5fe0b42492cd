@@ -1,0 +1,1 @@
+{"id":"292829ea-eba2-44f6-b638-83da305f7c2c","name":"Lock 3.3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["6fabcdce-8ffc-460f-970b-e4f333a71d19"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","12632673-1c67-4a0c-b147-af7f07ab8417","state","LOCKED"]}]}
