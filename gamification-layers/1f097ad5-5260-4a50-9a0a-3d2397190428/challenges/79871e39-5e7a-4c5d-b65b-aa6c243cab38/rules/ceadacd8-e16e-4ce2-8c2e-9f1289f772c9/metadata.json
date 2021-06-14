@@ -1,0 +1,1 @@
+{"id":"ceadacd8-e16e-4ce2-8c2e-9f1289f772c9","name":"lo2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["79871e39-5e7a-4c5d-b65b-aa6c243cab38"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","900c9dc6-4b66-4604-b9d4-1bb974839984","state","LOCKED"]}]}
