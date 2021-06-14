@@ -1,0 +1,1 @@
+{"id":"af825df1-485e-48fc-bdbe-dca1eb211bc2","name":"unlock 4.1","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","77bdf09f-5914-4918-946a-46b2c1d00327","state","OPENED"]}]}
