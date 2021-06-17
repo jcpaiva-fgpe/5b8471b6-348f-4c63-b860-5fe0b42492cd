@@ -1,0 +1,1 @@
+{"id":"c6649be4-7401-481f-bc0c-3f3d4c92766a","name":"lo3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["79871e39-5e7a-4c5d-b65b-aa6c243cab38"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","eb327b50-d504-4a9a-8ed7-d20fee848fee","state","LOCKED"]}]}
