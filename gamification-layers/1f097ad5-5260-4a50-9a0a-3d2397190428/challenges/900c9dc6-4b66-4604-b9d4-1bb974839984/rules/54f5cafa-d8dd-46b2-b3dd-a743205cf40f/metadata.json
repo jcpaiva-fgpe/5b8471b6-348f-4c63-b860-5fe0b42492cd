@@ -1,0 +1,1 @@
+{"id":"54f5cafa-d8dd-46b2-b3dd-a743205cf40f","name":"loo3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["900c9dc6-4b66-4604-b9d4-1bb974839984"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","eb327b50-d504-4a9a-8ed7-d20fee848fee","state","LOCKED"]}]}
