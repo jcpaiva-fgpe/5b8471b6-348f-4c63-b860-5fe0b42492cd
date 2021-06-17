@@ -1,0 +1,1 @@
+{"id":"134e0775-7f1c-4ab5-8468-cae023821d43","name":"unlob","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["7d3ed8fe-8253-49f8-b862-124033b9a497"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","755e8ee7-9fe4-463b-807f-b8e6de5077a0","state","OPENED"]}]}
