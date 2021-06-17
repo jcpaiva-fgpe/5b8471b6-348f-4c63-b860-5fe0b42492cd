@@ -1,0 +1,1 @@
+{"id":"60c7fb12-1421-4949-bf80-53b02326aa92","name":"lo31","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["eb327b50-d504-4a9a-8ed7-d20fee848fee"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","79871e39-5e7a-4c5d-b65b-aa6c243cab38","state","LOCKED"]}]}
