@@ -1,0 +1,1 @@
+{"id":"ce5fb90f-02dd-40d6-b98e-ab33e5364b83","name":"lob","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["79871e39-5e7a-4c5d-b65b-aa6c243cab38"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","755e8ee7-9fe4-463b-807f-b8e6de5077a0","state","LOCKED"]}]}
