@@ -1,0 +1,1 @@
+{"id":"b4fa4456-9e00-4cd1-aaa5-811628d75f03","name":"lo32","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["eb327b50-d504-4a9a-8ed7-d20fee848fee"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","900c9dc6-4b66-4604-b9d4-1bb974839984","state","LOCKED"]}]}
