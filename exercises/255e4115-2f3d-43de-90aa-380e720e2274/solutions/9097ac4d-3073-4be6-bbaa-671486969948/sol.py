@@ -1,5 +1,5 @@
 while True:
-    print('Wpisz poniżej nazwisko i numer PESEL:')
+    print('Wpisz nazwisko i numer PESEL:')
     try:
         name, pesel = map(str, input().split())
         plec, last = map(int, pesel[9:])
@@ -8,7 +8,7 @@ while True:
     
     except ValueError: break
     
-    status = (10 - sum_psl % 10)
+    status = 10 - int(str(sum_psl)[-1])
     if status == last:
        zwroty = 'Pani' if plec % 2 == 0 else 'Pan', 'a' if plec % 2 == 0 else 'y'
        
