@@ -1,1 +1,2 @@
-Adamowicz 88072902015
+Wpisz poniżej nazwisko i pesel obywatela:
+Pan Adam, urodzony: 29.07.1988, legitymujący się numerem PESEL: 88072902015, aktualnie ma: 32 lata
