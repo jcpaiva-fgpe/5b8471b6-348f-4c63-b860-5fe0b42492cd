@@ -22,8 +22,8 @@ while True:
        data = f'{d}.{m}.{r}'
        import datetime
        tday = datetime.datetime.now()
-       wiek = (tday.year - int(r)) - ((tday.year, tday.month, tday.day) > (int(r), int(m), int(d)))
+       wiek = (tday.year - int(r)) - ((tday.month, tday.day) < (int(m), int(d)))
 
     else: break
 
-    print(zwroty[0], f'{name.title()}, urodzon{zwroty[1]}: {data}, legitymując{zwroty[1]} się numerem PESEL: {pesel}, aktualnie ma: {wiek}', 'lat' if wiek<=21 and wiek>3 else 'lata')
+    print(zwroty[0], f'{name.title()}, urodzon{zwroty[1]}: {data}, legitymując{zwroty[1]} się numerem PESEL: {pesel}, aktualny wiek w latch: {wiek}')
