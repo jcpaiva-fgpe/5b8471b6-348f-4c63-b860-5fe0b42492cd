@@ -1,1 +1,1 @@
-Wpisz poniżej nazwisko i pesel obywatela:
+Wpisz poniżej nazwisko i numer PESEL:
