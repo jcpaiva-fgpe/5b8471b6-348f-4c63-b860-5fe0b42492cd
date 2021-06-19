@@ -2,9 +2,12 @@ while True:
     print('Wpisz nazwisko i numer PESEL:')
     try:
         name, pesel = map(str, input().split())
+        
+        # wzor: 1*a + 3*b + 7*c + 9*d + 1*e + 3*f + 7*g + 9*h + 1*i + 3*j,
+        sum_psl = sum([int(pesel[i])*j for i, j in enumerate([i for i in [1,3,7,9]*3][:-2])])
         plec, last = map(int, pesel[9:])
-        sum_psl = sum([int(pesel[i])*j for i, j in enumerate([i for i in [1,3,7,9]*3][:-2])]) 
-        d, m, r = pesel[4:6], pesel[2:4], pesel[:2]
+        r, m, d = map(str, [pesel[i:i+2] for i in range(0,5,2)])
+        
     
     except ValueError: break
     
