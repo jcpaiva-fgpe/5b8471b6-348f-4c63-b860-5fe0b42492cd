@@ -1,2 +1,1 @@
-print("Wpisz tekst:")
-print(f"{input()}!!!")
+print('concatenated:', input('wyraz 1:\n') + input('wyraz 2:\n'))
