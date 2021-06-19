@@ -1,2 +1,2 @@
-Wpisz poniżej nazwisko i numer PESEL:
+Wpisz nazwisko i numer PESEL:
 Pan Dawid, urodzony: 29.07.1988, legitymujący się numerem PESEL: 88072902015, aktualnie ma: 32 lata
