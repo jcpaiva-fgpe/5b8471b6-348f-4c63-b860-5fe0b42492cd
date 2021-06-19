@@ -1,2 +1,2 @@
 2
-Miałes wprowadzić liczbę!
+Miałes wpisać liczbę całkowitą!
