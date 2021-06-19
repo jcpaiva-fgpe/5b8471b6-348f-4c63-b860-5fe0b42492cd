@@ -1,1 +1,1 @@
-Wpisz poniżej nazwisko i numer PESEL:
+Wpisz nazwisko i numer PESEL:
