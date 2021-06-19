@@ -1,1 +1,1 @@
-{"id":"f416e63c-9507-47a6-97a5-ae40c5e07200","arguments":[],"weight":"2","visible":false,"input":"in2.txt","output":"out2.txt","timeout":0,"feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
+{"id":"f416e63c-9507-47a6-97a5-ae40c5e07200","arguments":[],"weight":"2","visible":"false","input":"in2.txt","output":"out2.txt","timeout":"0","feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
