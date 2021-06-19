@@ -1,5 +1,5 @@
 while True:
-    print('Wpisz poniżej nazwisko i pesel obywatela:')
+    print('Wpisz poniżej nazwisko i numer PESEL:')
     try:
         name, pesel = map(str, input().split())
         plec, last = map(int, pesel[9:])
@@ -13,14 +13,14 @@ while True:
        zwroty = 'Pani' if plec % 2 == 0 else 'Pan', 'a' if plec % 2 == 0 else 'y'
        
        r = f'19{r}' if int(m) < 20 else f'20{r}'
-       m = int(m) if int(m) < 20 else int(m)-20
+       m = int(m) if int(m) < 20 else int(m) - 20
        m = f'0{m}' if m < 10 else str(m) 
        
        data = f'{d}.{m}.{r}'
-       from datetime import datetime
-       tday = datetime.now()
+       import datetime
+       tday = datetime.datetime.now()
        wiek = (tday.year - int(r)) - ((tday.year, tday.month, tday.day) > (int(r), int(m), int(d)))
 
     else: break
-    
+
     print(zwroty[0], f'{name.title()}, urodzon{zwroty[1]}: {data}, legitymując{zwroty[1]} się numerem PESEL: {pesel}, aktualnie ma: {wiek}', 'lat' if wiek<=21 and wiek>3 else 'lata')
