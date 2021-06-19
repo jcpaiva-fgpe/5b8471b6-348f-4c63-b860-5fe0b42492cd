@@ -1,1 +1,1 @@
-{"id":"fb6e2a80-ab83-4648-927b-49eedec4b741","arguments":[],"weight":"1","visible":false,"input":"in1.txt","output":"out1.txt","timeout":0,"feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
+{"id":"fb6e2a80-ab83-4648-927b-49eedec4b741","arguments":[],"weight":"3","visible":"false","input":"in1.txt","output":"out1.txt","timeout":"0","feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
