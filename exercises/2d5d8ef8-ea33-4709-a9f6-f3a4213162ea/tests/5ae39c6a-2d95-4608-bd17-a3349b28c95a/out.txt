@@ -1,3 +1,0 @@
-wyraz 1:
-wyraz 2:
-concatenated: programm
