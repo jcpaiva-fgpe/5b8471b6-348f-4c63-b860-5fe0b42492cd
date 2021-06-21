@@ -1,0 +1,1 @@
+{"id":"636ad06e-41ba-4e55-8494-6c365fe69a09","name":"Give points","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["4f8c3dd3-e4eb-4404-ac3c-a44a65cf34d0"]}]}
