@@ -1,1 +1,1 @@
-{"id":"2deb416c-6849-4f89-a9e7-e26346f4eab7","name":"Tabele","groups":false,"metrics":["$.player.points"],"sorting_orders":["ASC"]}
+{"id":"2deb416c-6849-4f89-a9e7-e26346f4eab7","name":"Tabele","groups":false,"metrics":[" $.player.submissions[0].result "],"sorting_orders":["ASC"]}
