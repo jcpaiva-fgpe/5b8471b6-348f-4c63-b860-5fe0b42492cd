@@ -1,0 +1,1 @@
+{"id":"7e4f64f3-8c2b-4270-960e-8b7225bc3466","name":"Point for accepted","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["player","points","+1"]}]}
