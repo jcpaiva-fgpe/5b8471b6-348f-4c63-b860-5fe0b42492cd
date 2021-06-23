@@ -1,0 +1,1 @@
+{"id":"85a8646b-60e3-4270-b091-4986dab47ff4","name":"unlo32","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["80caeff1-7a55-44bd-a1a6-0f4f05c6df1a"]}],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","855fbefb-eabd-4350-a60c-54cf433c79b2","state","OPENED"]}]}
