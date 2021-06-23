@@ -1,0 +1,1 @@
+{"id":"af0bb04d-8047-4256-884e-9aebc79da5b3","name":"Tabela","groups":false,"metrics":["$.player[?(@.points > 1)]"],"sorting_orders":["ASC"]}
