@@ -1,0 +1,1 @@
+{"id":"10efc42d-5a7c-4fa6-bd41-fd80480810db","name":"UnlockBonus","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["80caeff1-7a55-44bd-a1a6-0f4f05c6df1a"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
