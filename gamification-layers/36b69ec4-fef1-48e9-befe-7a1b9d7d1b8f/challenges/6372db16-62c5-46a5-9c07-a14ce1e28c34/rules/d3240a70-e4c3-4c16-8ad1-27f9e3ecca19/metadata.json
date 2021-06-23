@@ -1,0 +1,1 @@
+{"id":"d3240a70-e4c3-4c16-8ad1-27f9e3ecca19","name":"Unlo42","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["6372db16-62c5-46a5-9c07-a14ce1e28c34"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","14eb218f-9865-4b2e-a5c6-6c71fdd5fb8c","state","OPENED"]}]}
