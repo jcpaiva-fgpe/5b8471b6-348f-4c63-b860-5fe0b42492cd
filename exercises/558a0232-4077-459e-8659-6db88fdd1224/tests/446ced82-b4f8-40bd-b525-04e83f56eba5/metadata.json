@@ -1,1 +1,1 @@
-{"id":"446ced82-b4f8-40bd-b525-04e83f56eba5","arguments":[],"weight":"1","visible":false,"input":"in.txt","output":"out.txt","timeout":0,"feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
+{"id":"446ced82-b4f8-40bd-b525-04e83f56eba5","arguments":[],"weight":"1","visible":"false","input":"in.txt","output":"out.txt","timeout":"0","feedback":[{"message":"Sprawdz kod.","weight":"0"}]}
