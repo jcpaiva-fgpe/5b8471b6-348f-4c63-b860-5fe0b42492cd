@@ -1,0 +1,1 @@
+{"id":"b58ae425-cf0e-430f-8f03-f4f73f46d86b","name":"Unlo5","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["14eb218f-9865-4b2e-a5c6-6c71fdd5fb8c"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","e9bd5d4f-982e-4b4a-b94a-57e0a09a034a","state","OPENED"]}]}
