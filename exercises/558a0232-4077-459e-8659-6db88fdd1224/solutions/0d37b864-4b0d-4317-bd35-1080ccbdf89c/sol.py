@@ -1,9 +1,8 @@
 print("Poniżej wpisuj zdania z adresami e-mail:")
 while True:
-    txt = input()#"""W pierwszym dziale jest: tom12.kowalski@gmail.com, na pietrze jest dzial IT, pracownicy to: sr322.3tomczak@you.com i abu.ag@galo.com"""
+    txt = input()
     a = re.findall("[A-z0-9]+[.][\w-]?[a-z]\w+[@]\w+[.]\w+", txt)
     if not a: break
-
     for i,j in enumerate(a):
         name_email = j.split('@')[0]
         l = [i for i in name_email if i.isdigit()]
