@@ -1,3 +1,4 @@
+import re
 print("Poniżej wpisuj zdania z adresami e-mail:")
 while True:
     txt = input()
