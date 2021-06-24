@@ -1,1 +1,5 @@
-Podaj napis: Siala Baba Mak
+Poniżej wpisuj zdania z adresami e-mail:
+1) tom12.kowalski 2 1
+2) sr322.3tomczak 3 2
+3) abu.ag
+koniec.
