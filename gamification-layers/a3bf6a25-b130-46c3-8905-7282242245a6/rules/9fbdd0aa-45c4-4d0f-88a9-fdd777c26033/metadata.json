@@ -1,1 +1,0 @@
-{"id":"9fbdd0aa-45c4-4d0f-88a9-fdd777c26033","name":"czas","triggers":[{"kind":"TIME","event":"INTERVAL","recurrent":false,"parameters":[10]}],"criteria":{},"actions":[]}
