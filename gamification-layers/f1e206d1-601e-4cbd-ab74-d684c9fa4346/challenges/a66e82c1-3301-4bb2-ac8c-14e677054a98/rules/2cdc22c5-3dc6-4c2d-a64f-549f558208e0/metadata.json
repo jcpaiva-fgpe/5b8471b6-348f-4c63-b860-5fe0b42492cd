@@ -1,1 +1,0 @@
-{"id":"2cdc22c5-3dc6-4c2d-a64f-549f558208e0","name":"UNBLOCK-ALL","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["a66e82c1-3301-4bb2-ac8c-14e677054a98"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]},{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
