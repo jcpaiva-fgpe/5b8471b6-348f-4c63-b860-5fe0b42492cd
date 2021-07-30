@@ -1,1 +1,0 @@
-{"id":"f855da7e-89f5-4977-aef1-85fc820b9951","name":"unblock zadania","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","${V0}","state","OPENED"]}]}
