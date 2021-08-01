@@ -1,1 +1,0 @@
-{"id":"d62ef804-8c8c-4883-9820-0f6d4cc1c98f","name":"Cronjob","triggers":[{"kind":"TIME","event":"CRONJOB","recurrent":false,"parameters":["* * * * *"]}],"criteria":{},"actions":[]}
