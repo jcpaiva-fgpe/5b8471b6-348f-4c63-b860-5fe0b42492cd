@@ -1,1 +1,0 @@
-{"id":"c3867adf-3aa5-4655-8567-7aaa89756901","name":"av3","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["191c8273-29ef-434b-ab56-3a67f16082cf"]}],"criteria":{"conditions":[],"junctors":[]},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","12632673-1c67-4a0c-b147-af7f07ab8417","state","OPENED"]}]}
