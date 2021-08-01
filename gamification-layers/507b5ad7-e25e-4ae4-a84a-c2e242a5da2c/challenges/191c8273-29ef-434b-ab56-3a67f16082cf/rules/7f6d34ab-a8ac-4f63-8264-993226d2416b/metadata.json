@@ -1,1 +1,0 @@
-{"id":"7f6d34ab-a8ac-4f63-8264-993226d2416b","name":"av2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["191c8273-29ef-434b-ab56-3a67f16082cf"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","6fabcdce-8ffc-460f-970b-e4f333a71d19","state","OPENED"]}]}
