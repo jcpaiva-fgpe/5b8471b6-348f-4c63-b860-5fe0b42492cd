@@ -1,1 +1,0 @@
-{"id":"7e4f64f3-8c2b-4270-960e-8b7225bc3466","name":"Point for accepted","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["4f8c3dd3-e4eb-4404-ac3c-a44a65cf34d0"]}]}
