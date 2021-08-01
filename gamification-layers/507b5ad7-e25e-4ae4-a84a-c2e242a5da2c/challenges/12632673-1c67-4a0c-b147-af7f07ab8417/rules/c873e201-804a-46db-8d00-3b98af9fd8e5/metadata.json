@@ -1,1 +1,0 @@
-{"id":"c873e201-804a-46db-8d00-3b98af9fd8e5","name":"lock 3.2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["12632673-1c67-4a0c-b147-af7f07ab8417"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","6fabcdce-8ffc-460f-970b-e4f333a71d19","state","LOCKED"]}]}
