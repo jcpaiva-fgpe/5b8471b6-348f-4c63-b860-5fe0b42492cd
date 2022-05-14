@@ -1,0 +1,1 @@
+{"id":"bc2900bb-db06-4065-9d97-e7ee96546427","name":"[Palindromy] Give Key S1 Unlocker","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":["f7ae3dbd-e37d-4ac6-9f51-8e7ac8928946"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["bd3fd035-a817-4714-9bb3-81a16bac7285"]}]}
