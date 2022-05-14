@@ -1,3 +1,3 @@
 Wpisz nazwisko i numer PESEL:
-Pani Krauze, urodzona: 07.09.2008, legitymująca się numerem PESEL: 08290725582, aktualny wiek w latch: 12
+Pani Krauze, urodzona: 07.09.2008, legitymująca się numerem PESEL: 08290725582, aktualny wiek w latch: 13
 Wpisz nazwisko i numer PESEL:
