@@ -1,1 +1,2 @@
+Podaj liczbe:
 12
