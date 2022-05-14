@@ -1,0 +1,1 @@
+{"id":"7de66d15-fe77-4165-a8f4-1840e0587e32","name":"[Takie samy wyrazy] Give Key S1 Unlocker","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":["dfefcde4-c604-4354-8239-c2c872055c74"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["bd3fd035-a817-4714-9bb3-81a16bac7285"]}]}
