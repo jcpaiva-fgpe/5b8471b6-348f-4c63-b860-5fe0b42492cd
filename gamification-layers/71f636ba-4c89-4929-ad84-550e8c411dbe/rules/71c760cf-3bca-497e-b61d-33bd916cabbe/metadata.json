@@ -1,0 +1,1 @@
+{"id":"71c760cf-3bca-497e-b61d-33bd916cabbe","name":"[Znaki zodiaku] Give Key S1 Unlocker","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":["ede1bb0e-a4df-408a-9b43-e8689ceb0afb"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["bd3fd035-a817-4714-9bb3-81a16bac7285"]}]}
